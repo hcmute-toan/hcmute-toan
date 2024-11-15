@@ -35,11 +35,6 @@ I am a software programming major at `Ho Chi Minh City University of Technology 
 
 ---
 
-### 📈 GitHub Stats
-![Toàn's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)
-
----
-
 ### 📹 Content & Tutorials
 
 
