@@ -7,7 +7,7 @@ I am a software programming major at `Ho Chi Minh City University of Technology 
 
 ---
 
-### 🧰 Languages and Tools
+`### 🧰 Languages and Tools
 ### **Languages:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -31,7 +31,7 @@ I am a software programming major at `Ho Chi Minh City University of Technology 
 ### **Version Control / Tools:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+`
 
 ---
 
